@@ -14,7 +14,7 @@ a {
 }
 
 .contenedor {
-	width: 90%;
+	width: 89%;
 	max-width: 800px;
 	margin: auto;
 }
@@ -40,7 +40,7 @@ header form {
 	width: 100%;
 	display: flex;
 	justify-content: center;
-	margin-bottom: 20px;
+	margin-bottom: 22px;
 }
 
 header .barra-busqueda {
@@ -115,7 +115,7 @@ header .categorias a.activo {
 	left: 0;
 	right: 0;
 	background: rgba(0,0,0,.9);
-	width: 100%;
+	width: 100vw;
 	height: 100vh;
 	display: none;
 	align-items: center;
